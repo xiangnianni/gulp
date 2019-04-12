@@ -1,0 +1,1 @@
+.warpper,body,html{width:100%;height:100%;overflow:hidden;padding:0;margin:0}.warpper{display:flex;flex-direction:column}.header{height:40px;background:#ccc}.header ul{width:100%;height:40px;display:flex;padding:0;margin:0;justify-content:space-around}.header ul li{list-style:none;line-height:40px}.main{flex:1}.footer{height:40px;background:#f60}
